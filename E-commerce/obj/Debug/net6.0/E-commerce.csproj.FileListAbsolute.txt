@@ -1,0 +1,5 @@
+C:\Users\Altair\Desktop\CODERHOUSE\C# BACK\Proyecto-C#\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.csproj.AssemblyReference.cache
+C:\Users\Altair\Desktop\CODERHOUSE\C# BACK\Proyecto-C#\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altair\Desktop\CODERHOUSE\C# BACK\Proyecto-C#\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.AssemblyInfoInputs.cache
+C:\Users\Altair\Desktop\CODERHOUSE\C# BACK\Proyecto-C#\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.AssemblyInfo.cs
+C:\Users\Altair\Desktop\CODERHOUSE\C# BACK\Proyecto-C#\E-commerce\E-commerce\obj\Debug\net6.0\E-commerce.csproj.CoreCompileInputs.cache
